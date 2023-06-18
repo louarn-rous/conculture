@@ -1,0 +1,133 @@
+{
+  "partyName": "Ižter Komunistis Partit",
+  "position": "Far-Left",
+  "ideology": [
+    "Marxism–Leninism",
+    "Anti-Revisionism"
+  ],
+  "acronyms": [
+    "IKP",
+    "KP"
+  ],
+  "colloqNames": [
+    "er komunisten",
+    "er rodisten",
+    "er roden"
+  ]
+}
+
+{
+  "partyName": "Sosialistis Partit dö Ižteria",
+  "position": [
+    "Left",
+    "Far-Left"
+  ],
+  "ideology": [
+    "Socialism",
+    "Trotskyism"
+  ],
+  "acronyms": [
+    "SPI",
+    "SPdI",
+    "SP"
+  ],
+  "colloqNames": "er socialisten"
+}
+
+{
+  "partyName": "Sosialdemokratis Partit Ižteria",
+  "position": "Centre-Left",
+  "ideology": "Social Democracy",
+  "acronyms": [
+    "SDPI",
+    "SDPI",
+    "SP"
+  ],
+  "colloqNames": "er sosialdemokratisten"
+}
+
+{
+  "partyName": "Ižter Populat-Aksion Partit",
+  "position": "Syncretic",
+  "ideology": [
+    "Populism",
+    "Left-wing Nationalism"
+  ],
+  "acronyms": [
+    "IPAP",
+    "PAP"
+  ],
+  "colloqNames": [
+    "er pop-aksionisten",
+    "er pop-aksionen"
+  ]
+}
+
+{
+  "partyName": "Ižter Partit Grön",
+  "position": "Centre",
+  "ideology": "Environmentalism",
+  "acronyms": "PG",
+  "colloqNames": [
+    "er grönisten",
+    "er grönen"
+  ]
+}
+
+{
+  "partyName": "Populat Votš",
+  "position": "Centre",
+  "ideology": "Populism",
+  "acronyms": "PoVo",
+  "colloqNames": "er populisten"
+}
+
+{
+  "partyName": "Partit öd Sosialiberalis",
+  "position": "Centre",
+  "ideology": [
+    "Liberalism",
+    "Democracy"
+  ],
+  "acronyms": [
+    "PSL",
+    "PöSL"
+  ],
+  "colloqNames": [
+    "er socialiberalisten",
+    "er socialiberalen",
+    "er soliberalisten",
+    "er soliberalen"
+  ]
+}
+
+{
+  "partyName": "Liberaldemokratis Partit",
+  "position": [
+    "Centre-Right",
+    "Right"
+  ],
+  "ideology": [
+    "Conservativism",
+    "Nationalism"
+  ],
+  "acronyms": "LDP",
+  "colloqNames": [
+    "er liberokratisten",
+    "er liberokraten"
+  ]
+}
+
+{
+  "partyName": "Ižter Nasional Partit",
+  "position": "Right",
+  "ideology": [
+    "National Conservativism",
+    "Right-wing Populism"
+  ],
+  "acronyms": [
+    "INP",
+    "NP"
+  ],
+  "colloqNames": "er nasionalisten"
+}
