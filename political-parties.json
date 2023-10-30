@@ -1,5 +1,5 @@
 {
-  "partyName": "Ižter Komunistis Partit",
+  "partyName": "Tröbörenpartit Kommunist Ižter",
   "position": "Far-Left",
   "ideology": [
     "Marxism–Leninism",
@@ -17,7 +17,7 @@
 }
 
 {
-  "partyName": "Sosialistis Partit dö Ižteria",
+  "partyName": "Partit Socialist Ižter",
   "position": [
     "Left",
     "Far-Left"
@@ -27,23 +27,22 @@
     "Trotskyism"
   ],
   "acronyms": [
-    "SPI",
-    "SPdI",
-    "SP"
+    "PSI",
+    "PS"
   ],
   "colloqNames": "er socialisten"
 }
 
 {
-  "partyName": "Sosialdemokratis Partit Ižteria",
+  "partyName": "Social-Demokratis Partit us Ižteria",
   "position": "Centre-Left",
   "ideology": "Social Democracy",
   "acronyms": [
     "SDPI",
-    "SDPI",
-    "SP"
+    "SDPuI",
+    "SDP"
   ],
-  "colloqNames": "er sosialdemokratisten"
+  "colloqNames": "er socialdemokratisten"
 }
 
 {
