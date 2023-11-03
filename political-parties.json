@@ -1,13 +1,12 @@
 {
-  "partyName": "Partit Kommunist us Tröbören Ižter",
+  "partyName": "Partit Kommunist Ižter",
   "position": "Far-Left",
   "ideology": [
     "Marxism–Leninism",
     "Anti-Revisionism"
   ],
   "acronyms": [
-    "PKTI",
-    "PKuTI",
+    "PKI",
     "PK"
   ],
   "colloqNames": [
@@ -18,7 +17,7 @@
 }
 
 {
-  "partyName": "Partit Socialist Ižter",
+  "partyName": "Partit Socialist us Ižteria",
   "position": [
     "Left",
     "Far-Left"
@@ -28,6 +27,7 @@
     "Trotskyism"
   ],
   "acronyms": [
+    "PSuI",
     "PSI",
     "PS"
   ],
