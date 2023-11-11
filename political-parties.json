@@ -35,7 +35,7 @@
 }
 
 {
-  "partyName": "Social-Demokratis Partit us Ižteria",
+  "partyName": "Social-Demokratist Partit us Ižteria",
   "position": "Centre-Left",
   "ideology": "Social Democracy",
   "acronyms": [
@@ -47,19 +47,18 @@
 }
 
 {
-  "partyName": "Ižter Populat-Aksion Partit",
+  "partyName": "Ižter Populäs Partit",
   "position": "Syncretic",
   "ideology": [
     "Populism",
     "Left-wing Nationalism"
   ],
   "acronyms": [
-    "IPAP",
-    "PAP"
+    "IPP",
+    "PP"
   ],
   "colloqNames": [
-    "er pop-aksionisten",
-    "er pop-aksionen"
+    "er läžisten"
   ]
 }
 
@@ -75,29 +74,17 @@
 }
 
 {
-  "partyName": "Populat Votš",
-  "position": "Centre",
-  "ideology": "Populism",
-  "acronyms": "PoVo",
-  "colloqNames": "er populisten"
-}
-
-{
-  "partyName": "Partit öd Sosialiberalis",
+  "partyName": "Gove Populäs",
   "position": "Centre",
   "ideology": [
+    "Populism",
     "Liberalism",
     "Democracy"
   ],
-  "acronyms": [
-    "PSL",
-    "PöSL"
-  ],
+  "acronyms": "GoPo",
   "colloqNames": [
-    "er socialiberalisten",
-    "er socialiberalen",
-    "er soliberalisten",
-    "er soliberalen"
+    "er populisten",
+    "er liberalisten"
   ]
 }
 
